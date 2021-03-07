@@ -1,2 +1,2 @@
-# reza
+# Tugas Algodata
 Tugas 2
